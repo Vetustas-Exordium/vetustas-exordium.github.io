@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tin-whistle", {data:[{}],fetch:[],mutations:[]});

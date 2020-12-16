@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/french-horn", {data:[{}],fetch:[],mutations:[]});

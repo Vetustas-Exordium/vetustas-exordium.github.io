@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/baritone-horn", {data:[{}],fetch:[],mutations:[]});
